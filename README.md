@@ -1,4 +1,5 @@
 ![alt text](https://rlhb.lexblogplatformthree.com/wp-content/uploads/sites/111/2016/10/twitter-company-statistics.jpg)
+![alt text](https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/12/06/104883023-4ED3-PL-TRUMP-1-120617.1910x1000.jpg)
 
 # Twitter Topic Modeling Project
 
@@ -18,9 +19,13 @@ Since LDA algorithm does NOT provide optimal number of topics, the analysis was 
 
 ## Useful References
 * [Tiwtter Open API](https://developer.twitter.com/en/docs/tweets/search/overview)
+ -> This link provides general information on Twitter Open API
 * [Youtube Tutorial on Topic Modeling](https://www.youtube.com/watch?v=BuMu-bdoVrU)
+ -> A good general overview of what Topic Modeling is. The presentation is given at Pycon Texas
 * [StackExchange Discussion](https://datascience.stackexchange.com/questions/12281/how-cluster-a-twitter-data-set)
+ -> The thread provides a good insight into the noisiness of Twitter data and why KMeans is probably not a good algorithm to utilize
 * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book)
+  -> The chapter on Sentimental Analysis has a nice illustration of how to implement LDA analysis 
 
 ## Acknowledgments
 
